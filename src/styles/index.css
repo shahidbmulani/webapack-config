@@ -1,0 +1,7 @@
+body{
+    margin: 0;
+    background-color: rebeccapurple;
+    color: red;
+    font-size: 30px;
+    display: flex;
+}

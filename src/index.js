@@ -1,3 +1,5 @@
+import './styles/index.css';
+
 const elevenShield = {
     letherStrips: 2,
 }
